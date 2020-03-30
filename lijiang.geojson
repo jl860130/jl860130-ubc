@@ -1,0 +1,965 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CVS": 24,
+        "BUS": 34,
+        "ROAD": 14276.7,
+        "ACCESSIBIL": 66.965,
+        "PCL_ID": 9233337,
+        "Y_WEIBO": 2651,
+        "E_NAME": "Lijiang",
+        "POI_DENSIT": 1639,
+        "CITYID": 582,
+        "DSUBC": 140.407,
+        "Y_LN_DP_CO": 9.341,
+        "A_TRANSPOR": 160.552,
+        "INCOME": 28610.9,
+        "Y_DP_COMME": 11400,
+        "GOV": 9,
+        "DTRAN": 0,
+        "MIXTURE": 0.616562,
+        "CITY_LEVEL": 2,
+        "TERTIARY": 59.8,
+        "GDP": 25802,
+        "JUNCTION": 272,
+        "DRAIL": 321.104,
+        "EDU": 17,
+        "AMENITIES": 21,
+        "DMALL": 0,
+        "Y_HOUSINGP": 0,
+        "DCENTER": 1.414,
+        "DHOSPITAL": 0,
+        "A_AMENETIE": 29.53,
+        "DGREEN": 5.831,
+        "POP_DENSIT": 16496
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              100.239466,
+              26.872924
+            ],
+            [
+              100.229362,
+              26.872494
+            ],
+            [
+              100.228876,
+              26.881462
+            ],
+            [
+              100.238981,
+              26.881893
+            ],
+            [
+              100.239466,
+              26.872924
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "01e5e0992a1492bd453abd3b536cf8f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CVS": 37,
+        "BUS": 20,
+        "ROAD": 17047.2,
+        "ACCESSIBIL": 67.621,
+        "PCL_ID": 9233670,
+        "Y_WEIBO": 432,
+        "E_NAME": "Lijiang",
+        "POI_DENSIT": 641,
+        "CITYID": 582,
+        "DSUBC": 141.676,
+        "Y_LN_DP_CO": 8.405,
+        "A_TRANSPOR": 161.259,
+        "INCOME": 28610.9,
+        "Y_DP_COMME": 4470,
+        "GOV": 22,
+        "DTRAN": 0,
+        "MIXTURE": 1.3843,
+        "CITY_LEVEL": 2,
+        "TERTIARY": 59.8,
+        "GDP": 25802,
+        "JUNCTION": 208,
+        "DRAIL": 322.518,
+        "EDU": 11,
+        "AMENITIES": 22.5,
+        "DMALL": 0,
+        "Y_HOUSINGP": 0,
+        "DCENTER": 2.828,
+        "DHOSPITAL": 0,
+        "A_AMENETIE": 30.166,
+        "DGREEN": 6.325,
+        "POP_DENSIT": 7386
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              100.228876,
+              26.881462
+            ],
+            [
+              100.218771,
+              26.88103
+            ],
+            [
+              100.218284,
+              26.889998
+            ],
+            [
+              100.22839,
+              26.89043
+            ],
+            [
+              100.228876,
+              26.881462
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "377b9d66d72feaccd6a18db88ea51076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CVS": 18,
+        "BUS": 12,
+        "ROAD": 19722.2,
+        "ACCESSIBIL": 68.365,
+        "PCL_ID": 9233669,
+        "Y_WEIBO": 174,
+        "E_NAME": "Lijiang",
+        "POI_DENSIT": 326,
+        "CITYID": 582,
+        "DSUBC": 142.622,
+        "Y_LN_DP_CO": 4.369,
+        "A_TRANSPOR": 162.121,
+        "INCOME": 28610.9,
+        "Y_DP_COMME": 79,
+        "GOV": 12,
+        "DTRAN": 1,
+        "MIXTURE": 1.71801,
+        "CITY_LEVEL": 2,
+        "TERTIARY": 59.8,
+        "GDP": 25802,
+        "JUNCTION": 230,
+        "DRAIL": 323.241,
+        "EDU": 10,
+        "AMENITIES": 13,
+        "DMALL": 1,
+        "Y_HOUSINGP": 0,
+        "DCENTER": 3.606,
+        "DHOSPITAL": 1,
+        "A_AMENETIE": 30.862,
+        "DGREEN": 6.083,
+        "POP_DENSIT": 7386
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              100.218771,
+              26.88103
+            ],
+            [
+              100.208667,
+              26.880597
+            ],
+            [
+              100.208178,
+              26.889565
+            ],
+            [
+              100.218284,
+              26.889998
+            ],
+            [
+              100.218771,
+              26.88103
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "42c024702881a08cd05f85fc411ff485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CVS": 10,
+        "BUS": 0,
+        "ROAD": 13766.9,
+        "ACCESSIBIL": 67.038,
+        "PCL_ID": 9232320,
+        "Y_WEIBO": 90,
+        "E_NAME": "Lijiang",
+        "POI_DENSIT": 75,
+        "CITYID": 582,
+        "DSUBC": 140.428,
+        "Y_LN_DP_CO": 2.197,
+        "A_TRANSPOR": 160.59,
+        "INCOME": 28610.9,
+        "Y_DP_COMME": 9,
+        "GOV": 1,
+        "DTRAN": 1.414,
+        "MIXTURE": 1.50678,
+        "CITY_LEVEL": 2,
+        "TERTIARY": 59.8,
+        "GDP": 25802,
+        "JUNCTION": 141,
+        "DRAIL": 319.766,
+        "EDU": 0,
+        "AMENITIES": 2.75,
+        "DMALL": 1,
+        "Y_HOUSINGP": 0,
+        "DCENTER": 2.828,
+        "DHOSPITAL": 1,
+        "A_AMENETIE": 29.617,
+        "DGREEN": 2.828,
+        "POP_DENSIT": 5875
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              100.23082,
+              26.845588
+            ],
+            [
+              100.220719,
+              26.845157
+            ],
+            [
+              100.220232,
+              26.854125
+            ],
+            [
+              100.230334,
+              26.854557
+            ],
+            [
+              100.23082,
+              26.845588
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "43cb5c872f535f05f309e5e4ee80b279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CVS": 69,
+        "BUS": 32,
+        "ROAD": 22727.8,
+        "ACCESSIBIL": 67.093,
+        "PCL_ID": 9233001,
+        "Y_WEIBO": 596,
+        "E_NAME": "Lijiang",
+        "POI_DENSIT": 842,
+        "CITYID": 582,
+        "DSUBC": 141.039,
+        "Y_LN_DP_CO": 7.519,
+        "A_TRANSPOR": 160.569,
+        "INCOME": 28610.9,
+        "Y_DP_COMME": 1842,
+        "GOV": 22,
+        "DTRAN": 0,
+        "MIXTURE": 1.15128,
+        "CITY_LEVEL": 2,
+        "TERTIARY": 59.8,
+        "GDP": 25802,
+        "JUNCTION": 313,
+        "DRAIL": 321.139,
+        "EDU": 7,
+        "AMENITIES": 32.5,
+        "DMALL": 0,
+        "Y_HOUSINGP": 0,
+        "DCENTER": 2,
+        "DHOSPITAL": 1,
+        "A_AMENETIE": 29.702,
+        "DGREEN": 4.472,
+        "POP_DENSIT": 7177
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              100.229848,
+              26.863525
+            ],
+            [
+              100.219745,
+              26.863094
+            ],
+            [
+              100.219258,
+              26.872062
+            ],
+            [
+              100.229362,
+              26.872494
+            ],
+            [
+              100.229848,
+              26.863525
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "4dae9dbfc1531b1ad5977b9d26ee8722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CVS": 1,
+        "BUS": 2,
+        "ROAD": 8814.4,
+        "ACCESSIBIL": 68.976,
+        "PCL_ID": 9233668,
+        "Y_WEIBO": 34,
+        "E_NAME": "Lijiang",
+        "POI_DENSIT": 55,
+        "CITYID": 582,
+        "DSUBC": 143.569,
+        "Y_LN_DP_CO": 0,
+        "A_TRANSPOR": 162.983,
+        "INCOME": 28610.9,
+        "Y_DP_COMME": 1,
+        "GOV": 4,
+        "DTRAN": 2,
+        "MIXTURE": 1.49014,
+        "CITY_LEVEL": 2,
+        "TERTIARY": 59.8,
+        "GDP": 25802,
+        "JUNCTION": 45,
+        "DRAIL": 323.966,
+        "EDU": 2,
+        "AMENITIES": 2.25,
+        "DMALL": 1.414,
+        "Y_HOUSINGP": 0,
+        "DCENTER": 4.472,
+        "DHOSPITAL": 1.414,
+        "A_AMENETIE": 31.374,
+        "DGREEN": 6,
+        "POP_DENSIT": 3741
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              100.208667,
+              26.880597
+            ],
+            [
+              100.198562,
+              26.880164
+            ],
+            [
+              100.198073,
+              26.889131
+            ],
+            [
+              100.208178,
+              26.889565
+            ],
+            [
+              100.208667,
+              26.880597
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "56dd86b24eda237f174f49706e64c2dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CVS": 81,
+        "BUS": 49,
+        "ROAD": 19416,
+        "ACCESSIBIL": 67.4,
+        "PCL_ID": 9233336,
+        "Y_WEIBO": 901,
+        "E_NAME": "Lijiang",
+        "POI_DENSIT": 1723,
+        "CITYID": 582,
+        "DSUBC": 141.354,
+        "Y_LN_DP_CO": 6.896,
+        "A_TRANSPOR": 161.414,
+        "INCOME": 28610.9,
+        "Y_DP_COMME": 988,
+        "GOV": 47,
+        "DTRAN": 1,
+        "MIXTURE": 1.11284,
+        "CITY_LEVEL": 2,
+        "TERTIARY": 59.8,
+        "GDP": 25802,
+        "JUNCTION": 267,
+        "DRAIL": 321.828,
+        "EDU": 8,
+        "AMENITIES": 46.25,
+        "DMALL": 0,
+        "Y_HOUSINGP": 0,
+        "DCENTER": 2.236,
+        "DHOSPITAL": 0,
+        "A_AMENETIE": 29.795,
+        "DGREEN": 5.385,
+        "POP_DENSIT": 6910
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              100.229362,
+              26.872494
+            ],
+            [
+              100.219258,
+              26.872062
+            ],
+            [
+              100.218771,
+              26.88103
+            ],
+            [
+              100.228876,
+              26.881462
+            ],
+            [
+              100.229362,
+              26.872494
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "5d50bb1c7e1fc7ddc237b277086b7818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CVS": 1,
+        "BUS": 4,
+        "ROAD": 15883.3,
+        "ACCESSIBIL": 68.86,
+        "PCL_ID": 9234003,
+        "Y_WEIBO": 67,
+        "E_NAME": "Lijiang",
+        "POI_DENSIT": 87,
+        "CITYID": 582,
+        "DSUBC": 142.948,
+        "Y_LN_DP_CO": 1.386,
+        "A_TRANSPOR": 162.673,
+        "INCOME": 28610.9,
+        "Y_DP_COMME": 4,
+        "GOV": 7,
+        "DTRAN": 1.414,
+        "MIXTURE": 1.71503,
+        "CITY_LEVEL": 2,
+        "TERTIARY": 59.8,
+        "GDP": 25802,
+        "JUNCTION": 163,
+        "DRAIL": 323.932,
+        "EDU": 2,
+        "AMENITIES": 3.5,
+        "DMALL": 1,
+        "Y_HOUSINGP": 0,
+        "DCENTER": 4.243,
+        "DHOSPITAL": 1.414,
+        "A_AMENETIE": 31.335,
+        "DGREEN": 7.071,
+        "POP_DENSIT": 5813
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              100.218284,
+              26.889998
+            ],
+            [
+              100.208178,
+              26.889565
+            ],
+            [
+              100.20769,
+              26.898533
+            ],
+            [
+              100.217797,
+              26.898965
+            ],
+            [
+              100.218284,
+              26.889998
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "6452f4eb98e8d483d39ac589c731204d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CVS": 31,
+        "BUS": 6,
+        "ROAD": 20317.2,
+        "ACCESSIBIL": 67.79,
+        "PCL_ID": 9233335,
+        "Y_WEIBO": 238,
+        "E_NAME": "Lijiang",
+        "POI_DENSIT": 403,
+        "CITYID": 582,
+        "DSUBC": 142.303,
+        "Y_LN_DP_CO": 4.875,
+        "A_TRANSPOR": 161.983,
+        "INCOME": 28610.9,
+        "Y_DP_COMME": 131,
+        "GOV": 7,
+        "DTRAN": 1.414,
+        "MIXTURE": 0.951439,
+        "CITY_LEVEL": 2,
+        "TERTIARY": 59.8,
+        "GDP": 25802,
+        "JUNCTION": 208,
+        "DRAIL": 322.552,
+        "EDU": 10,
+        "AMENITIES": 13.5,
+        "DMALL": 0,
+        "Y_HOUSINGP": 0,
+        "DCENTER": 3.162,
+        "DHOSPITAL": 0,
+        "A_AMENETIE": 30.113,
+        "DGREEN": 5.099,
+        "POP_DENSIT": 7386
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              100.219258,
+              26.872062
+            ],
+            [
+              100.209155,
+              26.871629
+            ],
+            [
+              100.208667,
+              26.880597
+            ],
+            [
+              100.218771,
+              26.88103
+            ],
+            [
+              100.219258,
+              26.872062
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "6b370e99b33464e1d9a92c716d9b985f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CVS": 29,
+        "BUS": 18,
+        "ROAD": 21465.7,
+        "ACCESSIBIL": 66.786,
+        "PCL_ID": 9233002,
+        "Y_WEIBO": 4426,
+        "E_NAME": "Lijiang",
+        "POI_DENSIT": 996,
+        "CITYID": 582,
+        "DSUBC": 140.089,
+        "Y_LN_DP_CO": 10.296,
+        "A_TRANSPOR": 160.707,
+        "INCOME": 28610.9,
+        "Y_DP_COMME": 29606,
+        "GOV": 12,
+        "DTRAN": 1,
+        "MIXTURE": 0.665097,
+        "CITY_LEVEL": 2,
+        "TERTIARY": 59.8,
+        "GDP": 25802,
+        "JUNCTION": 327,
+        "DRAIL": 320.414,
+        "EDU": 9,
+        "AMENITIES": 17,
+        "DMALL": 0,
+        "Y_HOUSINGP": 0,
+        "DCENTER": 1,
+        "DHOSPITAL": 0,
+        "A_AMENETIE": 29.218,
+        "DGREEN": 5,
+        "POP_DENSIT": 17602
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              100.239951,
+              26.863956
+            ],
+            [
+              100.229848,
+              26.863525
+            ],
+            [
+              100.229362,
+              26.872494
+            ],
+            [
+              100.239466,
+              26.872924
+            ],
+            [
+              100.239951,
+              26.863956
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "7fc2b2f87c80d37d4446e3a49c8cc316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CVS": 28,
+        "BUS": 8,
+        "ROAD": 20423.7,
+        "ACCESSIBIL": 66.86,
+        "PCL_ID": 9232661,
+        "Y_WEIBO": 269,
+        "E_NAME": "Lijiang",
+        "POI_DENSIT": 339,
+        "CITYID": 582,
+        "DSUBC": 140.73,
+        "Y_LN_DP_CO": 4.419,
+        "A_TRANSPOR": 160.726,
+        "INCOME": 28610.9,
+        "Y_DP_COMME": 83,
+        "GOV": 48,
+        "DTRAN": 1,
+        "MIXTURE": 1.44844,
+        "CITY_LEVEL": 2,
+        "TERTIARY": 59.8,
+        "GDP": 25802,
+        "JUNCTION": 269,
+        "DRAIL": 320.451,
+        "EDU": 3,
+        "AMENITIES": 21.75,
+        "DMALL": 0,
+        "Y_HOUSINGP": 0,
+        "DCENTER": 2.236,
+        "DHOSPITAL": 0,
+        "A_AMENETIE": 29.314,
+        "DGREEN": 3.606,
+        "POP_DENSIT": 7496
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              100.230334,
+              26.854557
+            ],
+            [
+              100.220232,
+              26.854125
+            ],
+            [
+              100.219745,
+              26.863094
+            ],
+            [
+              100.229848,
+              26.863525
+            ],
+            [
+              100.230334,
+              26.854557
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "89bf72526365b33c741e879c7d6b7904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CVS": 55,
+        "BUS": 10,
+        "ROAD": 16751.3,
+        "ACCESSIBIL": 66.594,
+        "PCL_ID": 9232662,
+        "Y_WEIBO": 521,
+        "E_NAME": "Lijiang",
+        "POI_DENSIT": 374,
+        "CITYID": 582,
+        "DSUBC": 139.778,
+        "Y_LN_DP_CO": 5.447,
+        "A_TRANSPOR": 159.862,
+        "INCOME": 28610.9,
+        "Y_DP_COMME": 232,
+        "GOV": 2,
+        "DTRAN": 0,
+        "MIXTURE": 1.0542,
+        "CITY_LEVEL": 2,
+        "TERTIARY": 59.8,
+        "GDP": 25802,
+        "JUNCTION": 165,
+        "DRAIL": 319.725,
+        "EDU": 7,
+        "AMENITIES": 18.5,
+        "DMALL": 1,
+        "Y_HOUSINGP": 0,
+        "DCENTER": 1.414,
+        "DHOSPITAL": 0,
+        "A_AMENETIE": 29.287,
+        "DGREEN": 4.243,
+        "POP_DENSIT": 7496
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              100.240436,
+              26.854988
+            ],
+            [
+              100.230334,
+              26.854557
+            ],
+            [
+              100.229848,
+              26.863525
+            ],
+            [
+              100.239951,
+              26.863956
+            ],
+            [
+              100.240436,
+              26.854988
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "e5713d5eedd17f2289a2853ec36ea367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CVS": 26,
+        "BUS": 4,
+        "ROAD": 16296.1,
+        "ACCESSIBIL": 67.711,
+        "PCL_ID": 9233000,
+        "Y_WEIBO": 186,
+        "E_NAME": "Lijiang",
+        "POI_DENSIT": 483,
+        "CITYID": 582,
+        "DSUBC": 141.989,
+        "Y_LN_DP_CO": 4.407,
+        "A_TRANSPOR": 161.432,
+        "INCOME": 28610.9,
+        "Y_DP_COMME": 82,
+        "GOV": 4,
+        "DTRAN": 1,
+        "MIXTURE": 1.49308,
+        "CITY_LEVEL": 2,
+        "TERTIARY": 59.8,
+        "GDP": 25802,
+        "JUNCTION": 230,
+        "DRAIL": 321.865,
+        "EDU": 10,
+        "AMENITIES": 11,
+        "DMALL": 1,
+        "Y_HOUSINGP": 0,
+        "DCENTER": 3,
+        "DHOSPITAL": 1,
+        "A_AMENETIE": 30.223,
+        "DGREEN": 4.123,
+        "POP_DENSIT": 7113
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              100.219745,
+              26.863094
+            ],
+            [
+              100.209642,
+              26.862661
+            ],
+            [
+              100.209155,
+              26.871629
+            ],
+            [
+              100.219258,
+              26.872062
+            ],
+            [
+              100.219745,
+              26.863094
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "e97febd2eff4bba3656eff7bb6d16b2b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CVS": 0,
+        "BUS": 1,
+        "ROAD": 17013.1,
+        "ACCESSIBIL": 68.994,
+        "PCL_ID": 9234337,
+        "Y_WEIBO": 58,
+        "E_NAME": "Lijiang",
+        "POI_DENSIT": 38,
+        "CITYID": 582,
+        "DSUBC": 142.338,
+        "Y_LN_DP_CO": 1.386,
+        "A_TRANSPOR": 162.952,
+        "INCOME": 28610.9,
+        "Y_DP_COMME": 4,
+        "GOV": 2,
+        "DTRAN": 2,
+        "MIXTURE": 1.85108,
+        "CITY_LEVEL": 2,
+        "TERTIARY": 59.8,
+        "GDP": 25802,
+        "JUNCTION": 171,
+        "DRAIL": 323.904,
+        "EDU": 1,
+        "AMENITIES": 1,
+        "DMALL": 0,
+        "Y_HOUSINGP": 0,
+        "DCENTER": 4.472,
+        "DHOSPITAL": 2,
+        "A_AMENETIE": 31.411,
+        "DGREEN": 8.246,
+        "POP_DENSIT": 2976
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              100.217797,
+              26.898965
+            ],
+            [
+              100.20769,
+              26.898533
+            ],
+            [
+              100.207202,
+              26.9075
+            ],
+            [
+              100.21731,
+              26.907933
+            ],
+            [
+              100.217797,
+              26.898965
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "f24359d46f1ec4b1783ebcbfc0b4a0f2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CVS": 11,
+        "BUS": 18,
+        "ROAD": 19589.7,
+        "ACCESSIBIL": 68.3,
+        "PCL_ID": 9234004,
+        "Y_WEIBO": 173,
+        "E_NAME": "Lijiang",
+        "POI_DENSIT": 324,
+        "CITYID": 582,
+        "DSUBC": 142.004,
+        "Y_LN_DP_CO": 3.178,
+        "A_TRANSPOR": 162.105,
+        "INCOME": 28610.9,
+        "Y_DP_COMME": 24,
+        "GOV": 11,
+        "DTRAN": 1,
+        "MIXTURE": 1.83807,
+        "CITY_LEVEL": 2,
+        "TERTIARY": 59.8,
+        "GDP": 25802,
+        "JUNCTION": 178,
+        "DRAIL": 323.21,
+        "EDU": 5,
+        "AMENITIES": 11.25,
+        "DMALL": 0,
+        "Y_HOUSINGP": 0,
+        "DCENTER": 3.606,
+        "DHOSPITAL": 1,
+        "A_AMENETIE": 30.778,
+        "DGREEN": 7.28,
+        "POP_DENSIT": 6539
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              100.22839,
+              26.89043
+            ],
+            [
+              100.218284,
+              26.889998
+            ],
+            [
+              100.217797,
+              26.898965
+            ],
+            [
+              100.227904,
+              26.899397
+            ],
+            [
+              100.22839,
+              26.89043
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "f915b9a57fbe58e0d0349a8a48c70bd0"
+    }
+  ],
+  "type": "FeatureCollection"
+}
